@@ -1,0 +1,10 @@
+# Ask user for their name
+name = input(f"Hello. What is your name?")
+# Repeat user's name and take user's age
+age = input(f"It's nice to meet you, {name}. How old are you?")
+# Repeat user's age
+print(f"I see that you are still quite young at only {age}.")
+# Ask user where they live
+location = input(f"Where do you live?")
+# Repeat user's location back to them
+print(f"Wow! I've always wanted to go to {location}. Thanks for chatting with me. Bye!")
