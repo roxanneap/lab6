@@ -1,3 +1,5 @@
+#Derek Tsang, 
+
 # Ask user for their name
 name = input(f"Hello. What is your name?")
 # Repeat user's name and take user's age
